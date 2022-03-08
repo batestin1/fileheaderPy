@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+scriptHeaderPy/__init__.py
+scriptHeaderPy/scriptPy.py
+scriptHeaderPy.egg-info/PKG-INFO
+scriptHeaderPy.egg-info/SOURCES.txt
+scriptHeaderPy.egg-info/dependency_links.txt
+scriptHeaderPy.egg-info/top_level.txt
