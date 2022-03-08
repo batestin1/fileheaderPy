@@ -1,8 +1,8 @@
 <h1 align="center">
-<img src="https://img.shields.io/static/v1?label=scriptHeaderPy%20POR&message=MAYCON%20BATESTIN&color=7159c1&style=flat-square&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label=fileheaderPy%20POR&message=MAYCON%20BATESTIN&color=7159c1&style=flat-square&logo=ghost"/>
 
 
-<h3> <p align="center">scriptHeaderPy </p> </h3>
+<h3> <p align="center">fileheaderPy </p> </h3>
 <h3> <p align="center"> ================= </p> </h3>
 
 >> <h3> Resume </h3>
@@ -11,10 +11,25 @@
 
 >> <h3> How Works </h3>
 
-```
-from scriptHeaderPy.scriptPy import scriptHeaderPy
+<p> install </p>
 
-scriptHeaderPy()
+```
+pip install fileheaderPy
+
+```
+<p> on script </p>
+
+```
+from fileheaderPy import *
+
+fileheaderPy("hello world")
+
+
+```
+<p> out </p>
+```
+the hello_world.py was built successfully!
+the hello_world.py is locate here: C:\Users\Bates\Documents\Repositorios\PYHEADER\hello_world.py
 
 ```
 
@@ -23,18 +38,20 @@ scriptHeaderPy()
 >> <h3> Out </h3>
 ```
                    
-                    #********************************************************************************#
-                    #                                                                                #
-                    #                                  нεℓℓσ,вαтεs!                                  #
-                    #                                                                                #
-                    #   filename: maloca_1.py                                                        #
-                    #   created: 2022-03-07                                                          #
-                    #   system: Windows                                                              #
-                    #   version: 64bit                                                               #
-                    #                                           by: Bates <https://github.com/bates> #
-                    #********************************************************************************#
-                    #                           import your librarys below                           #
-                    #********************************************************************************#
+                   
+                        #********************************************************************************#
+                        #                                                                                #
+                        #                                  нεℓℓσ,вαтεs!                                  #
+                        #                                                                                #
+                        #   filename: hello_world.py                                                     #
+                        #   created: 2022-03-08                                                          #
+                        #   system: Windows                                                              #
+                        #   version: 64bit                                                               #
+                        #                                       by: Bates <https://github.com/batestin1> #
+                        #********************************************************************************#
+                        #                           import your librarys below                           #
+                        #********************************************************************************#
+
 
                     
 ```
