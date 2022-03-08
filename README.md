@@ -24,9 +24,9 @@ from fileheaderPy import *
 
 fileheaderPy("hello world")
 
-
 ```
 <p> out </p>
+
 ```
 the hello_world.py was built successfully!
 the hello_world.py is locate here: C:\Users\Bates\Documents\Repositorios\PYHEADER\hello_world.py
@@ -35,10 +35,9 @@ the hello_world.py is locate here: C:\Users\Bates\Documents\Repositorios\PYHEADE
 
 <p> After invoking the function, just follow the instructions that will be asked </p>
 
->> <h3> Out </h3>
+>> <h3> header </h3>
+
 ```
-                   
-                   
     #********************************************************************************#
     #                                                                                #
     #                                  нεℓℓσ,вαтεs!                                  #
@@ -52,6 +51,4 @@ the hello_world.py is locate here: C:\Users\Bates\Documents\Repositorios\PYHEADE
     #                           import your librarys below                           #
     #********************************************************************************#
 
-
-                    
 ```
